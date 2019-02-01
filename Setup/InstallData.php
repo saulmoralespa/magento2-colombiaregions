@@ -50,7 +50,6 @@ class InstallData implements InstallDataInterface
          * Fill table directory/country_region_name for en_US locale
          */
         $data = [
-            ['CO', 'AR', 'Artigas'],
             ['CO','Amazonas','Amazonas'],
             ['CO','Antioquia','Antioquia'],
             ['CO','Arauca','Arauca'],
@@ -76,7 +75,7 @@ class InstallData implements InstallDataInterface
             ['CO','Putumayo','Putumayo'],
             ['CO','Quindío','Quindío'],
             ['CO','Risaralda','Risaralda'],
-            ['CO','San Andrés and Providencia','San Andrés and Providencia'],
+            ['CO','San Andrés y Providencia','San Andrés y Providencia'],
             ['CO','Santander','Santander'],
             ['CO','Sucre','Sucre'],
             ['CO','Tolima','Tolima'],
